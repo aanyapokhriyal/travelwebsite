@@ -1,0 +1,743 @@
+.contact {
+  font-family: 'Playfair Display', serif;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.phone {
+  padding-right: 96px;
+  display: flex;
+}
+
+.phone i {
+  font-size: 30px;
+  padding: 10px;
+  margin-right: 10px;
+}
+
+.btn-color1 {
+  background-color: #39c6d9;
+  font-weight: 500;
+  color: #ffff;
+  padding: 13px;
+
+}
+
+nav.navbar.navbar-expand-lg.bg-body-tertiary {
+  justify-content: space-around;
+  background-color: #2e2d2d !important;
+  padding: 0px;
+}
+
+
+.p-2 {
+  padding: 0rem !important;
+}
+
+a.nav-link {
+  color: #fff;
+}
+
+.navbar-nav .nav-link.active,
+.navbar-nav .nav-link.show {
+  color: #39c6d9;
+}
+
+.nav-link:hover {
+  color: #39c6d9;
+}
+
+div#navbarNav {
+  background-color: #2e2d2d
+}
+
+li.nav-item {
+  border: solid white 1px;
+  border-left: none;
+  padding: 0px 35px;
+}
+
+li:nth-child(1) {
+  border-left: solid 1px #fff;
+}
+
+h1.text-center {
+  font-size: xxx-large;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.headings {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 65px;
+  padding-bottom: 20px;
+  text-align: center;
+  padding-top: 16px;
+
+}
+
+.col-4 strong {
+  font-size: x-large;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.col-4 p {
+  font-family: sans-serif;
+  font-size: 20px;
+}
+
+.info1 {
+  position: absolute;
+  right: 516px;
+  left: 60px;
+  top: 87px;
+  text-align: left;
+}
+
+.info1 h5 {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 70px;
+  font-weight: 500;
+}
+
+.info1 h5 span {
+  font-style: italic;
+}
+
+
+
+.c-para {
+  padding-bottom: 10px;
+}
+
+
+.hr {
+
+  width: 47%;
+  margin: auto;
+}
+
+.circle {
+  border-radius: 100px;
+  margin: auto;
+  border: solid 3px #39c6d9;
+  background-color: #efefef;
+  height: 132px;
+  width: 132px;
+
+}
+
+.c-block1 strong {
+  font-size: 20px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.c-span {
+  line-height: 26x;
+  font-size: 30px;
+  font-family: 'Times New Roman', Times, serif;
+  padding: 40px 0px;
+}
+
+.btn-color2 {
+  background-color: #39c6d9;
+  color: white;
+  padding: 10px;
+}
+
+.stickyimg {
+  position: sticky;
+}
+
+.cont {
+  text-align: center;
+  font-size: 57px;
+  font-family: 'Times New Roman', Times, serif;
+  background-color: #daf5f8;
+  padding: 12px;
+  margin-bottom: 22px;
+  margin-top: 19px;
+}
+
+.cont p {
+  border: 1px solid black;
+  margin-bottom: 0px;
+}
+
+.right-img {
+  background: url(../images/mt-1958-home-img14.jpg);
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+  padding: 85px !important;
+  color: #fff !important
+}
+
+.right-img.bg2 {
+  background: url(../images/mt-1958-home-img15.jpg);
+  margin-top: 20px;
+  padding: 85px;
+}
+
+.gall {
+  margin-bottom: 22px;
+}
+
+.stickyimg {
+  background-attachment: fixed;
+  background: url(../images/mt-1958-content-bg01.jpg);
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+  padding: 200px;
+
+}
+
+.left-img {
+  background: url(../images/mt-1958-home-img13.jpg);
+  padding: 193px 0px !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+  color: #fff;
+}
+
+.left-img1 {
+  background: url(../images/mt-1958-home-img01.jpg);
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+
+}
+
+.footer {
+  background-color: #000;
+  color: #fff;
+  padding: 25px;
+}
+
+.footlist li {
+  display: inline-block;
+  margin-right: 15px;
+
+}
+
+.footlist {
+  text-align: end;
+  font-weight: 700;
+}
+
+.info4 {
+  display: flex
+}
+
+.info4 p {
+  background-color: #ececec;
+  padding: 9px;
+  margin: 0px;
+}
+
+.info3 {
+  color: #fff;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.info3 h3 {
+  font-weight: bolder;
+  font-size: 52px;
+}
+
+.info3 p {
+  font-size: 20px;
+}
+
+.info6 {
+  background-color: #daf5f8;
+  border: solid 1px;
+  padding: 15px;
+}
+
+.info6 h5 {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 30px;
+  margin-top: 30px;
+  text-align: center;
+}
+
+.info6 p {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 22px;
+  margin-bottom: 3px;
+}
+
+
+#travel-tips .block h5 {
+  color: #fff;
+  bottom: 10px;
+  position: absolute;
+  z-index: 999999;
+  width: 100%;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+#travel-tips .block h5 a:hover {
+  color: #39c6d9;
+}
+
+#travel-tips .block {
+  background: url(../images/mt-1958-home-img18.jpg);
+  height: 270px;
+  background-size: cover;
+  text-align: center;
+  position: relative;
+}
+
+#travel-tips .block.img2 {
+  background: url(../images/mt-1958-home-img19.jpg);
+  height: 270px;
+  background-size: cover;
+  text-align: center;
+  position: relative;
+}
+
+#travel-tips .block.img3 {
+  background: url(../images/mt-1958-home-img20.jpg);
+  height: 302px;
+  background-size: cover;
+  text-align: center;
+  position: relative;
+  margin-bottom: 20px;
+}
+
+#travel-tips .block.img4 {
+  background: url(../images/mt-1958-home-img21.jpg);
+  height: 302px;
+  background-size: cover;
+  text-align: center;
+  position: relative;
+}
+
+/* traveler favorites */
+#Traveler-favorites .Gall {
+  background: url(../images/mt-1958-home-img05.jpg);
+  background-size: cover;
+  text-align: center;
+  height: 172px;
+  position: relative;
+}
+
+#Traveler-favorites .Gall.img2 {
+  background: url(../images/mt-1958-home-img06.jpg);
+  background-size: cover;
+  text-align: center;
+  height: 172px;
+  position: relative;
+}
+
+#Traveler-favorites .Gall.img3 {
+  background: url(../images/mt-1958-home-img07.jpg);
+  background-size: cover;
+  text-align: center;
+  height: 172px;
+  position: relative;
+}
+
+#Traveler-favorites .Gall.img4 {
+  background: url(../images/mt-1958-home-img08.jpg);
+  background-size: cover;
+  text-align: center;
+  height: 172px;
+  position: relative;
+}
+
+#Traveler-favorites .Gall.img5 {
+  background: url(../images/mt-1958-home-img09.jpg);
+  background-size: cover;
+  text-align: center;
+  height: 172px;
+  position: relative;
+}
+
+#Traveler-favorites .Gall.img6 {
+  background: url(../images/mt-1958-home-img10.jpg);
+  background-size: cover;
+  text-align: center;
+  height: 172px;
+  position: relative;
+}
+
+#Traveler-favorites .Gall.img7 {
+  background: url(../images/mt-1958-home-img11.jpg);
+  background-size: cover;
+  text-align: center;
+  height: 172px;
+  position: relative;
+}
+
+#Traveler-favorites .Gall.img8 {
+  background: url(../images/mt-1958-home-img12.jpg);
+  background-size: cover;
+  text-align: center;
+  height: 172px;
+  position: relative;
+  margin-bottom: 25px;
+}
+
+#Traveler-favorites .info2 {
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  color: white;
+  font-size: 14px;
+  position: absolute;
+  z-index: 999999;
+  width: 100%;
+  bottom: -4px;
+
+}
+
+#Traveler-favorites .info2 p a {
+  background-color: #39c6d9;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+#Traveler-favorites .info2 p strong {
+  font-size: 20px;
+}
+
+.trav-p {
+  font-size: 20px;
+  text-align: center;
+}
+
+.sticky-btn button {
+  padding: 10px;
+}
+
+.sticky-text p {
+  font-size: 24px;
+  color: #fff;
+  padding: 10px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.ftr1{
+  color:#9b9a98; 
+  font-size: 15px;
+}
+
+
+
+@media only screen and (max-width: 768px) {
+
+  .logo {
+    text-align: center;
+    margin-bottom: 10px;
+  }
+
+  .btn1 {
+    text-align: center;
+    margin: 10px 0;
+  }
+
+  .phone i {
+    margin: 0px;
+    padding: 5px;
+  }
+
+  .stickyimg {
+    padding: 20px;
+  }
+
+  .info3 h3 {
+    font-size: 30px;
+  }
+
+  .cont {
+    font-size: 40px;
+  }
+
+  .headings {
+    font-size: 50px;
+  }
+
+  li.nav-item {
+    border-left: solid 1px #fff;
+  }
+
+  .navbar-toggler {
+    background-color: #ececec;
+  }
+
+}
+
+@media only screen and (max-width: 576px) {
+
+  .headings {
+    font-size: 25px;
+    font-weight: 600;
+  }
+
+  .circle {
+    height: 86px;
+    width: 88px;
+  }
+
+  .c-span {
+    font-size: 24px;
+  }
+
+  .c-block1 {
+    margin-bottom: 43px;
+  }
+
+  .phone {
+    padding-right: 0px;
+    display: block;
+    text-align: center;
+    font-size: 15px;
+  }
+
+  .contact {
+    display: block;
+  }
+
+  i.fas.fa-phone-alt.fa-lg {
+    font-size: 18px;
+  }
+
+  .btn-color1 {
+    padding: 6px;
+    font-size: 13px;
+  }
+
+  .info4 {
+    display: block;
+  }
+
+  .info4 img{
+    height: 176px;
+  }
+
+  .info4 p {
+    font-size: 11px;
+    margin-top: 4px;
+  }
+
+  .c-block1 p {
+    font-size: 12px;
+  }
+
+  .c-block1 strong {
+    font-size: 16px;
+  }
+
+  .trav-p {
+    font-size: 11px;
+  }
+
+  .info3 h3 {
+    font-size: 20px;
+  }
+
+  .info3 p {
+    font-size: 10px;
+  }
+
+  .sticky-row {
+    display: block;
+  }
+
+  .sticky-btn button {
+    font-size: 10px;
+  }
+
+  .sticky-text p {
+    font-size: 17px;
+    padding: 0px;
+  }
+
+  .cont p {
+    font-size: 21px;
+  }
+
+  .left-img h5 {
+    font-size: 17px;
+  }
+
+  .left-img p {
+    font-size: 11px;
+    padding: 7px;
+  }
+
+  .left-img{
+    padding: 50px !important;
+  }
+
+  .right-img {
+    padding: 16px !important;
+    margin-top: 15px;
+  }
+
+  .right-img h5 {
+    font-size: 17px;
+  }
+
+  .right-img p {
+    font-size: 8px;
+  }
+
+  #travel-tips .block {
+    height: 126px;
+  }
+
+  #travel-tips .block.img2 {
+    height: 140px;
+  }
+
+  #travel-tips .block.img3 {
+    height: 187px;
+  }
+
+  #travel-tips .block.img4 {
+    height: 213px !important;
+  }
+
+  #travel-tips .block h5 {
+    font-size: 13px;
+  }
+  #Traveler-favorites .info2 p strong {
+    font-size: 14px;
+}
+
+#Traveler-favorites .info2 p a {
+  font-size: 10px;
+  padding: 7px;
+}
+
+
+  .info6 h5 {
+    font-size: 23px;
+    margin-top: 16px;
+  }
+
+  .info6 p {
+    font-size: 12px;
+  }
+
+  input#exampleFormControlInput1 {
+    font-size: 8px;
+  }
+
+  .btn-color2 {
+    font-size: 10px;
+  }
+  .footer{
+    padding: 12px;
+    margin-top: 11px;
+  }
+  .ftr1{
+    font-size: 8px;
+  }
+  .ftr2,.ftr3{
+    font-size: 10px;
+  }
+  /* .ftr3{
+    font-size: 10px;
+  } */
+
+  .footlist{
+    font-size: 8px;
+    margin-top: 10px;
+  }
+
+
+}
+
+@media screen and (min-device-width: 576px) and (max-device-width: 768px) { 
+  
+.contact{
+  display: flex;
+}
+.btn-color1{
+  padding: 10px;
+}
+.c-span {
+  font-size: 20px;
+  padding: 22px 0;
+  line-height: 19px;
+}
+.info3 h3 {
+  font-size: 27px;
+}
+.info3 p {
+  font-size: 15px;
+}
+.sticky-row {
+  display: flex;
+}
+.stickyimg {
+height: 251px;
+}
+.container.text-center {
+  margin-top: 27px;
+}
+.sticky-row {
+  margin-top: 10px;
+}
+.sticky-text {
+  margin-top: 19px;
+}
+.cont p{
+  font-size: 27 px;
+}
+.left-img {
+  padding: 60px 0px !important;
+}
+.left-img p{
+  font-size: 8pxx;
+}
+
+.right-img {
+  height: 110px;
+  margin-top: 0px;
+}
+.right-img.bg2 {
+  height: 107px;
+}
+.info4{
+  display: flex;
+}
+.info4 p {
+  font-size: 8px;
+  margin-top: 0px; 
+}
+#travel-tips .block.img2 {
+  height: 126px;
+}
+#travel-tips .block.img3 {
+  height: 147px;
+}
+#travel-tips .block.img4 {
+  height: 147px !important;
+}
+.info6 h5 {
+  font-size: 20px;
+  margin-top: 5px;
+}
+.info6{
+  padding: 12px 12px 0px
+}
+.info6 p {
+  font-size: 8px;
+}
+input#exampleFormControlInput1 {
+  font-size: 7px;
+}
+.btn-color2 {
+  padding: 6px;
+}
+.footlist {
+  font-size: 8px;
+  margin-top: 0px; 
+  display: flex;
+}
+.ftr2, .ftr3 {
+  font-size: 9px;
+}
+}
